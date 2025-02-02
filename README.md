@@ -1,6 +1,6 @@
-# testeng
+# DICEROLL APP
 
-A new Flutter project.
+A Practice Project from Udemy Course
 
 ## Getting Started
 
